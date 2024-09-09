@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "rapitell-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "netlify/functions/api.js",
+  "scripts": {
+    "start": "npx netlify dev",
+    "build": "npx netlify build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@netlify/functions": "^1.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "react": "^18.3.1",
+    "resend": "^3.4.0",
+    "serverless-http": "^3.2.0"
+  }
+}

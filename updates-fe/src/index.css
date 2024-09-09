@@ -1,0 +1,172 @@
+@import "react-toastify/dist/ReactToastify.css";
+@import "bootstrap/dist/css/bootstrap.css";
+
+.main-div {
+  width: 100%;
+}
+
+input {
+  border: 1px solid #6e6e73;
+  height: 50px;
+  padding: 20px 8px 8px;
+  border-radius: 12px;
+}
+
+input:focus {
+  outline: none;
+}
+
+body {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+label {
+  font-size: 0.65rem;
+  color: #6e6e73;
+}
+
+.form-check-input-ind:focus {
+  box-shadow: none;
+}
+
+.form-check-input-ind {
+  margin: 0;
+  width: 16px;
+  height: 16px;
+}
+
+span {
+  font-size: 0.8rem;
+}
+
+.info-container {
+  width: 440px;
+  margin-bottom: 0;
+  font-size: 0.8rem;
+}
+
+.ava-container {
+  width: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  label {
+    margin-right: 12px;
+    font-size: 20px;
+  }
+}
+
+.input-container {
+  position: relative;
+  margin-right: 12px;
+
+  label {
+    position: absolute;
+    top: -6px;
+    left: 8px;
+  }
+}
+
+.main-container-ele {
+  height: 44px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin: 16px auto;
+}
+
+.form-container-ele {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 58px;
+}
+
+.form-container-ele-alt {
+  background-color: #dc354638;
+  border-radius: 12px;
+  font-weight: bold;
+
+  input {
+    border: none;
+  }
+
+  label {
+    color: black;
+    font-weight: bold;
+  }
+}
+
+.form-buttons-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.buttons-container {
+  display: flex;
+  position: absolute;
+  right: -214px;
+}
+
+.search-bar {
+  position: relative;
+  display: flex;
+  align-items: center;
+
+  input {
+    width: 400px;
+  }
+
+  label {
+    position: absolute;
+    top: 4px;
+    left: 10px;
+  }
+}
+
+.form-check-input {
+  margin-left: 0 !important;
+  width: 50px !important;
+}
+
+.form-switch {
+  padding-left: 0;
+}
+
+.loader-container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #161617;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.main-logo {
+  width: 60px;
+}
+
+.info-container-main {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  margin: 16px auto 8px;
+}
+
+.text-center {
+  margin-bottom: 0;
+}

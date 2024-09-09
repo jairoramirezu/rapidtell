@@ -1,0 +1,51 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" />
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-image href="https://rapidtell.com/" width="120px" src="https://rapidtell.com/images/rapidtell_000.jpg">
+        </mj-image>
+        <mj-text font-family="Poppins,sans-serif" font-size="16px" color="#000" align="center" font-weight="500" padding-top="0px" padding-bottom="16px" line-height="24px">
+          Compra tu teléfono. Más rápido. Más seguro. En un clic.
+        </mj-text>
+        <mj-text font-family="Poppins,sans-serif" font-size="16px" color="#000" font-weight="500" padding-top="50px" padding-bottom="16px" line-height="24px">
+          <span style="font-weight:bold;">Detalles de tu compra:</span>
+          <br />
+          Iphone
+          <br /><br />
+          <span style="font-weight:bold;">Total pagado:</span>
+          <br />
+          Precio
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="20px">
+      <mj-column>
+        <mj-text font-family="Poppins,sans-serif" font-size="12px" color="#000" font-weight="500" padding-top="0px" padding-bottom="16px" line-height="24px">
+          <span style="font-weight:bold;">Sobre la garantía:</span>
+          <br />
+          <span style="line-height:16px">Contamos con una garantía de 1 mes por problemas de software y 3 días por pin de carga en cualquiera de nuestros equipos.
+            <br />
+            <br />
+            <span style="font-weight:bold;">Información relevante sobre tu compra:</span>
+            <br />
+            * Equipos completamente nuevos.
+            <br />
+            * Todos los equipos vienen con su caja, cargador y accesorios.
+            <br />
+            * Las entregas son gratuitas solo en los municipios Maracaibo y San Fransciso.
+            <br />
+            * Cualquier envío fuera de estos municipios, nuestro equipo de venta se pondra en contacto.
+            <br />
+            * Sí realizas la compra antes de las 3PM., garantizamos la entrega el mismo día en los municipios Maracaibo y San Fco.
+          </span>
+        </mj-text>
+        <mj-text font-family="Poppins,sans-serif" font-size="16px" color="#000" align="center" font-weight="500" padding-top="0px" padding-bottom="16px" line-height="24px">
+          Gracias por confiar en <a href="https://rapidtell.com/" style="color:#000;">Rapidtell</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
